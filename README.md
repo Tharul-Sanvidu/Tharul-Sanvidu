@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tharul-Sanvidu
+- 👀 I’m interested in learning 'Javascript'
+- 🌱 I’m currently learning 'Python'.
